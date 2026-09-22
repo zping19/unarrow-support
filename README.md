@@ -1,6 +1,6 @@
-# Arrow Thread support pages
+# Unarrow support pages
 
-GitHub Pages site for the Arrow Thread iOS game.
+GitHub Pages site for the Unarrow iOS game (formerly Arrow Thread).
 
 - Privacy Policy: https://zping19.github.io/arrowthread-support/privacy/
 - Support: https://zping19.github.io/arrowthread-support/support/
